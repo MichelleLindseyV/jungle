@@ -2,6 +2,14 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Screenshots
+
+!["Home page displays product listings"](https://github.com/MichelleLindseyV/jungle/blob/master/screenshots/Hompage_displays_products.png?raw=true)
+!["Individual product page shows more details"](https://github.com/MichelleLindseyV/jungle/blob/master/screenshots/product_page.png?raw=true)
+!["Admin home page displays listed products, link to add new"](https://github.com/MichelleLindseyV/jungle/blob/master/screenshots/admin_list_products.png?raw=true)
+!["Admin, add new category"](https://github.com/MichelleLindseyV/jungle/blob/master/screenshots/admin_add_category.png?raw=true)
+!["View cart and checkout"](https://github.com/MichelleLindseyV/jungle/blob/master/screenshots/cart_checkout.png?raw=true)
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
