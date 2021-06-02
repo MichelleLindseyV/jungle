@@ -21,7 +21,7 @@ RSpec.feature "Adds product to cart from homepage", type: :feature, js: true do
 
     save_screenshot
 
-    product_url[:1].click_on 'Add' 
+    product_url.click_on 'Add' 
     
 
     within('navbar') do
